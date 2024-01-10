@@ -1,0 +1,5 @@
+print(str(input("Enter 10 numbers")))
+print()
+print(str(input()))
+print("enter a name"+input(str()))
+#print(a)

@@ -1,0 +1,17 @@
+a=int(input())
+b=int(input())
+print("Addition")
+c=a+b
+print(c)
+print("\nSubtraction")
+d=a-b
+print(d)
+print("\nMultiplication")
+e=a*b
+print(e)
+print("\nDivision")
+f=a/b
+print(f)
+print("\nModulus")
+g=a%b
+print(g)
