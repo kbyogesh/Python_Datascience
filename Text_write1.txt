@@ -1,0 +1,2 @@
+Hi From python TEXT_READ file
+appending the text
