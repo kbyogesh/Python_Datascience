@@ -1,8 +1,8 @@
 def fibo(n):
     if n <= 1:
-        print(n)
+        return n
     else:
-        return(fibo(n-1)+fibo(n-2))
+        return (fibo(n-1) + fibo(n-2))
 
 num = int(input("Enter number greater than 0"))
 
