@@ -1,5 +1,5 @@
-str1 = "This is a text and it is used to read myfile".split()
-print(str1)
+str1 = "This is a text and it is used to read is myfile".split()
+print(str1,len(str1))
 str2="is"
 #str3=str1.split()
 count = 0

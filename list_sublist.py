@@ -20,10 +20,10 @@ print(L1)
 
 
 
-for key in Dataset['Name']:
+for key in Dataset:
     if key == 'Manik':
         print("Name exist")
-        list(Dataset['Name'] ='Ramesh')
+        Dataset[value] ='Ramesh'
 #        print(key)
     else:
         print("Name not matched")
